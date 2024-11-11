@@ -1,7 +1,7 @@
 # Reto2.6
 
 Nombre y Apellidos: Pablo Rodríguez Crespo
-URL del repositorio de gitlab:
+URL del repositorio de gitlab: https://github.com/Pablosax9/ODAW2_RETO.2.7_flexbox1.git
 
 ## Enunciado
 
